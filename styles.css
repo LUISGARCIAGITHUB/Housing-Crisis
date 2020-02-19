@@ -1,0 +1,41 @@
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.Option {
+    display: flex;
+    justify-content: center;
+}
+
+.Nice.House {
+    width: 210px;
+
+}
+
+.Mediocre.House {
+    width: 210px;
+}
+
+.Low.House {
+    width: 210px;
+}
+
+.House {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Text {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: silver;
+}
